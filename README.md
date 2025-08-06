@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cenkerozkan&label=Profile%20views&color=0e75b6&style=flat" alt="cenkerozkan" /> </p>
 
 
-- 🌱 I’m currently learning **Pydantic, FastAPI, Psycopg3 and b4soup**
+- 🌱 I’m currently learning **Pydantic, FastAPI, Flask and Playwright**
 
-- 💬 Ask me about **Python, Linux, Supabase**
+- 💬 Ask me about **Python, Supabase, MongoDB**
 
 - 📫 How to reach me **cenkerozkanse@gmail.com**
-
-- ⚡ Fun fact **My childhood dream was to own a company that provides hosting, eventhough I didn't know what servers are :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
